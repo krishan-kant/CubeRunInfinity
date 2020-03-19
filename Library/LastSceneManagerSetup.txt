@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/infinity01.unity
+  isLoaded: 1
+  isActive: 1
