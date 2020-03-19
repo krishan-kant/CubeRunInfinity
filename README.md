@@ -1,5 +1,5 @@
 # CubeRunInfinity
- An endless runner game made with Unity. Unity 18.4.18 or any newer version can be used to modify it.
+ An endless runner game made with Unity. Unity 18.4.18f1 or any newer version can be used to modify it.
  
  The game is made for windows and android. 
  
